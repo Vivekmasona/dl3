@@ -1,5 +1,5 @@
 
-const PORT = "" || 12938; // Add ur custom port here
+const PORT = "" || 3000; // Add ur custom port here
 
 let fullDir = process.argv[0].split("\\");
 fullDir.pop();
