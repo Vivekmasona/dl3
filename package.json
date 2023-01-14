@@ -4,7 +4,7 @@
   "description": "selfhosted, webbased YouTube mp3/4 downloader and converter.",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    
   },
   "author": "Riccardo (ace) H.",
   "license": "MIT",
